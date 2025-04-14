@@ -1,6 +1,4 @@
-Database Project Group 14
-Group members: Devanshu Kumar, Sarah Park, Yakina Azza.
-Class: 4347.004
+# READ ME
 
 This folder contains:
 1. README.txt
